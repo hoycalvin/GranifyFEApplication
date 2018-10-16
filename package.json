@@ -1,0 +1,37 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-jest": "^23.6.0",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "joi": "^14.0.0",
+    "nodemon": "^1.18.4",
+    "npm": "^6.4.1",
+    "react": "^16.5.0",
+    "react-bootstrap": "^0.32.4",
+    "react-display-window": "^2.1.1",
+    "react-dom": "^16.5.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "react-window": "^1.2.1",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest --watchAll",
+    "eject": "react-scripts eject"
+  },
+  
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-react-app": "^5.0.3",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "jasmine": "^3.2.0",
+    "jasmine-enzyme": "^7.0.0",
+    "jsdom": "^12.2.0"
+  }
+}

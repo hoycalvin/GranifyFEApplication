@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+label {
+    width:80px;
+    padding-right:10px;
+}
+
+
+/*input, label {
+    float:left;
+}*/
+    
